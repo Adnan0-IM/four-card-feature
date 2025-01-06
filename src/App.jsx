@@ -22,7 +22,7 @@ function App() {
             </p>
             <img
               className="mt-4 ml-auto"
-              src="./src/images/icon-supervisor.svg"
+              src="/src/images/icon-supervisor.svg"
               alt="search icon "
               width={50}
               height={50}
@@ -36,7 +36,7 @@ function App() {
             </p>
             <img
               className="mt-4 ml-auto"
-              src="./src/images/icon-team-builder.svg"
+              src="/src/images/icon-team-builder.svg"
               alt="search icon "
               width={50}
               height={50}
@@ -49,7 +49,7 @@ function App() {
             </p>
             <img
               className="mt-4 ml-auto"
-              src="./src/images/icon-karma.svg"
+              src="/src/images/icon-karma.svg"
               alt="search icon "
               width={50}
               height={50}
@@ -62,7 +62,7 @@ function App() {
             </p>
             <img
               className="mt-4 ml-auto"
-              src="./src/images/icon-calculator.svg"
+              src="/src/images/icon-calculator.svg"
               alt="search icon "
               width={50}
               height={50}
