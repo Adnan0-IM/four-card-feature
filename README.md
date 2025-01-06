@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Adnan0-IM/four-card-feature](Solution)
-- Live Site URL: [https://resonant-alfajores-3eeba7.netlify.app](Live-Demo)
+- Solution URL: [Solution]([Solution](https://github.com/Adnan0-IM/four-card-feature))
+- Live Site URL: [Live Site](https://resonant-alfajores-3eeba7.netlify.app)
 
 ## My process
 
