@@ -1,3 +1,8 @@
+import supervisor from "../public/images/icon-supervisor.svg";
+import teamBuilder from "../public/images/icon-team-builder.svg";
+import karma from "../public/images/icon-karma.svg";
+import calculator from "../public/images/icon-calculator.svg";
+
 function App() {
   return (
     <>
@@ -22,7 +27,7 @@ function App() {
             </p>
             <img
               className="mt-4 ml-auto"
-              src="/src/images/icon-supervisor.svg"
+              src={supervisor}
               alt="search icon "
               width={50}
               height={50}
@@ -31,26 +36,25 @@ function App() {
           <div className="bg-white border-t-4 border-Red  rounded-lg shadow-xl flex flex-col gap-4 p-5 desktop:col-start-2 desktop:col-end-3 desktop:row-start-1 desktop:row-end-3">
             <h2 className="text-xl font-bold">Team Builder </h2>
             <p className="text-gray-600">
-              Scans our talent network to create the optimal team for your
-              project
+              Scans our talent network to create the optimal team for your project
             </p>
             <img
               className="mt-4 ml-auto"
-              src="/src/images/icon-team-builder.svg"
-              alt="search icon "
+              src={teamBuilder}
+              alt="team builder icon"
               width={50}
               height={50}
             />
           </div>
-          <div className="bg-white border-t-4 border-Orange  rounded-lg shadow-xl flex flex-col gap-4 p-5 desktop:col-start-2 desktop:col-end-3  desktop:row-start-3 desktop:row-end-5">
-            <h2 className="text-xl font-bold">Karma</h2>
+          <div className="bg-white border-t-4 border-Orange  rounded-lg shadow-xl flex flex-col gap-4 p-5 desktop:col-start-2 desktop:col-end-3 desktop:row-start-3 desktop:row-end-5">
+            <h2 className="text-xl font-bold">Karma </h2>
             <p className="text-gray-600">
               Regularly evaluates our talent to ensure quality
             </p>
             <img
               className="mt-4 ml-auto"
-              src="/src/images/icon-karma.svg"
-              alt="search icon "
+              src={karma}
+              alt="karma icon"
               width={50}
               height={50}
             />
@@ -62,8 +66,8 @@ function App() {
             </p>
             <img
               className="mt-4 ml-auto"
-              src="/src/images/icon-calculator.svg"
-              alt="search icon "
+              src={calculator}
+              alt="calculator icon"
               width={50}
               height={50}
             />
