@@ -4,7 +4,7 @@ export default {
   theme: {
     screens: {
       tablet: '769px',
-      desktop: '1440px',
+      desktop: '1228px',
     },
        fontFamily: {
         poppins: 'Poppins, serif',
